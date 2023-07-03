@@ -6,3 +6,5 @@ Python Challenges : Solving Python riddles from the Python challenges web page (
 WebApps : Creating interactive web application dashboards with Dash
 
 WebScraping : Scraping data from Web pages using Beautiful Soap
+
+Exploratory_Data_Analysis: Basic EDA Projects
